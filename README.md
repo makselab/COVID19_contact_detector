@@ -2,6 +2,9 @@
 
 Construct close contact from mobile tracking data. For users coming from makselab's Project `COVID19 K-core tracker` (https://github.com/makselab/COVID19) Please refer to the "running for research" section.
 
+Link for the app we are deploying!
+https://www.ceara.gov.br/2020/05/26/governo-lanca-ceara-app-com-servicos-de-saude/
+
 ## Production
 
 Deployment code for calculation pipeline as backend of an actual app. 
